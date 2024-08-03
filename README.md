@@ -1,8 +1,8 @@
-# PDDL4J_new_planner_V2
-PDDL4J_implementation_new_planner_v2
+
 
 
 voir Monte carlo search : 
+
 https://github.com/yahoui2001/recherche-d-arbre-Monte-Carlo-pdl4j
 
 
